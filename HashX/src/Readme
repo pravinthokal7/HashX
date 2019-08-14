@@ -1,0 +1,6 @@
+This is a implementation of Hashset in Java
+Methods used in Interface are:-
+
+void add(int d);
+boolean contains(int d);
+void display();
